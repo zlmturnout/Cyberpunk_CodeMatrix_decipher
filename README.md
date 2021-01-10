@@ -2,7 +2,7 @@
 
 ## Main purpose:
 There's one interesting puzzle-solving game in CyberPunk2077-"Breaching the Code Matrix" <br>
-This commitment tend to find (all)  the best route（s） to solve these puzzle.<br>
+This commitment tend to find (all)  the best route（s） to solve these puzzles.<br>
 
     An example Follows:
 ```bash
@@ -15,7 +15,7 @@ This commitment tend to find (all)  the best route（s） to solve these puzzle.
        55  55  1C  E9  7A  7A        7A  1C  7A           Level3
        E9  1C  7A  7A  7A  7A
 ```
-You need to find a route in the CodeMatrix box to acquire sequences which meet the required sequence, sequences with higher level means more bonus.<br>
+You need to find a route in the CodeMatrix box to obtain sequences which meet the required sequence, sequences with higher level means more bonus.<br>
 you have 6 BUffer meaning you have six steps (choose one code each step,and one code can only be chosen once).<br>
 
 ## Define the Problem
