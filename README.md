@@ -33,9 +33,9 @@ To clarify the puzzle, let's add some position index and bonus into the matrix
 
 how to define the route
     Rule:
-    Inside the matrix,choose code in row or column [row_n,col_n] by the order of row-col-row-col-...,
+    Inside the matrix,choose code in row or column [row_m,col_n] by the order of row-col-row-col-...,
     the first step start from row 0
-    Position identifier such as [2,0] means the code in row 2 and column 0 was chosen (offcouse it start from 0-1-2-3...) 
+    Position identifier [m,n] such as [2,0] means the code 'BD' in row 2 and column 0 was chosen ( it start from 0-1-2-3...) 
     for example:
     step:           1     2     3     4     5     6
     Row/Col:        R     C     R     C     R     C
