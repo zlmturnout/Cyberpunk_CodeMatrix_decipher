@@ -2,7 +2,7 @@
 
 ## Main purpose:
 There's one interesting puzzle-solving game in CyberPunk2077-"Breaching the Code Matrix" <br>
-This commitment tend to find (all)  the best route（s） to solve these puzzles.<br>
+within this commitment,it's aimed to find (all)  the best route（s） to solve these puzzles.<br>
 
     An example Follows:
 ```bash
