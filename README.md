@@ -45,9 +45,19 @@ how to define the route
     Bonus:by this route, you finished uploading two sequence BD-1C-1C and 7A-1C-7A, and get 8 (3+5) scores! 
  ```
 * Now the question comes: can we find a best route to obtain more bonus (more scores,9 at maximum) <br>
-    Roughly estimate all the possible routes:<br>
-    for a 6X6 Code Matrix with 6 buffers:<br> 
+    Roughly estimate all the possible routes <br>
+    for a 6x6 Code Matrix with 6 buffers:<br> 
         6 x 5 x 5 x 5 x 5 x 5 = 18750 <br>
         less than 18750 routes,since you can't choose one code twice. <br>
  
+ ## Solution
+ devide the problem into two main part <br>
+ 
+ *find all the legal route according to the rule <br>
+ 
+ For a Code Matrix with the shape of m x n and s Buffer , the roughly estimated possible routes are n*(m-1)^\[s/2\]\*(n-1)\^[s/2] <br>
+ 
+ *according the route, math the choosn code list with the required sequences
+  
+  find out the bonus by score (9,8,6,5,4,3,1,0)
  
