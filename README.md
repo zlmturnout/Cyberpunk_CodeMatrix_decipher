@@ -57,7 +57,7 @@ how to define the route
  
  For a Code Matrix with the shape of m x n and s Buffer , the roughly estimated possible routes are n*(m-1)^\[s/2\]\*(n-1)\^[s/2] <br>
  
- *according the route, math the choosn code list with the required sequences
+ *according the route, match the choosen code list with the required sequences
   
   find out the bonus by score (9,8,6,5,4,3,1,0)
  
