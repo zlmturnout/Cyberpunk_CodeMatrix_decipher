@@ -47,7 +47,7 @@ how to define the route
 * Now the question comes: can we find a best route to obtain more bonus (more scores,9 at maximum) <br>
  `Roughly estimate all the possible routes:`<br>
  * for a 6X6 Code Matrix with 6 buffers:<br> 
-        6/*5/*5/*5/*5/*5/=18750 <br>
+        6*5*5*5*5*5=18750 <br>
         less than 18750 routes,since you can't choose one code twice.<br>
  
  
